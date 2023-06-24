@@ -14,7 +14,7 @@
     />
   </head>
   <body>
-  <div class="menu" id="menu">
+    <div class="menu" id="menu">
       <div class="menu-container">
         <ul class="list">
           <li><a href="" class="link">Carreras</a></li>
